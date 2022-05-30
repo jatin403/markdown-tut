@@ -1,22 +1,23 @@
 # CS102: Markdown Sample : Top 3 Artists
 
 ## Artist 1
-Phoebe Bridgers
+[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG "mummy")<br>
+![Phoebe Bridgers]()
 ### Top 3 Tracks
-- Waiting Room
-- Garden Song
-- Funeral
+1. Waiting Room
+2. Garden Song
+3. Funeral
 
 ## Artist 2
-Elliott Smith
+[Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG "dawg")
 ### Top 3 Tracks
-- Somebody That I Used to Know
-- Between The Bars
-- Clementine
+1. Somebody That I Used to Know
+2. Between The Bars
+3. Clementine
 
 ## Artist 3
-Mitski
+[Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK "misskey")
 ### Top 3 Tracks
-- Two Slow Dancers
-- Washing Machine Heart
-- I Want You
+1. Two Slow Dancers
+2. Washing Machine Heart
+3. I Want You
