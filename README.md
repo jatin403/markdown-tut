@@ -2,7 +2,7 @@
 
 ## Artist 1
 [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG "mummy")<br>
-![Phoebe Bridgers]()
+![Phoebe Bridgers](ab6761610000e5eb626686e362d30246e816cc5b.jpg)
 ### Top 3 Tracks
 1. Waiting Room
 2. Garden Song
