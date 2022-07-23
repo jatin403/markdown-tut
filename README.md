@@ -24,3 +24,7 @@
 
 x <sup>2</sup>
 x^2^
+
+I like $$CS-102$$ Course.
+I like __CS-102__ Course.
+I like **CS-102** Course.
