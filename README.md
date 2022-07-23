@@ -22,4 +22,5 @@
 2. Washing Machine Heart
 3. I Want You
 
-/high adsdsasaf /high
+x <sup>2</sup>
+x^2^
